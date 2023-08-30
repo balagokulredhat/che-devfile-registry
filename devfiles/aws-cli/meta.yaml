@@ -1,0 +1,10 @@
+displayName: AWS
+description: AWS command line
+tags:
+  - AWS
+  - CLI
+  - DBS8
+icon: /images/aws.png
+links:
+  devWorkspaces:
+    che-incubator/che-idea/latest: /devfiles/aws_cli/aws-cli.yaml

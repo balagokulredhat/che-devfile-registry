@@ -1,0 +1,8 @@
+schemaVersion: 2.1.0
+metadata:
+  name: aws-cli
+components:
+  - name: aws-cli
+    container:
+      image: quay.io/balagokul/universal-developer-image:aws-cli
+      memoryLimit: 1Gi
